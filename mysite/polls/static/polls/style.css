@@ -1,0 +1,9 @@
+/* Stylesheet for polls app */
+
+li a {
+    color: Green;
+}
+
+body {
+    background: white url("images/background.gif") center no-repeat;
+}
